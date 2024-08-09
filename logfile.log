@@ -1,0 +1,16 @@
+[2024-08-08 22:47:54] [ INFO ] [VeterinarioDaoH2:37] Veterinario nuevo! Veterinario{id=2, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:49:48] [ INFO ] [VeterinarioDaoH2:85] Veterinario encontrado! Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='JORGE', APELLIDO='CEBALLOS', ESPECIALIDAD='CABALLOS'}
+[2024-08-08 22:50:55] [ INFO ] [VeterinarioDaoH2:37] Veterinario nuevo! Veterinario{id=2, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:50:55] [ INFO ] [VeterinarioDaoH2:121] Se encontraron estos veterinario [Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='JORGE', APELLIDO='CEBALLOS', ESPECIALIDAD='CABALLOS'}, Veterinario{id=2, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}]
+[2024-08-08 22:53:44] [ INFO ] [VeterinarioDaoH2:85] Veterinario encontrado! Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='JORGE', APELLIDO='CEBALLOS', ESPECIALIDAD='CABALLOS'}
+[2024-08-08 22:56:19] [ INFO ] [VeterinarioDaoH2:37] Veterinario nuevo! Veterinario{id=2, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:56:26] [ INFO ] [VeterinarioDaoH2:85] Veterinario encontrado! Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='JORGE', APELLIDO='CEBALLOS', ESPECIALIDAD='CABALLOS'}
+[2024-08-08 22:56:40] [ INFO ] [VeterinarioDaoMemory:18] paciente guardado Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:56:44] [ INFO ] [VeterinarioDaoMemory:33] err
+[2024-08-08 22:56:57] [ INFO ] [VeterinarioDaoMemory:18] paciente guardado Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:56:57] [ INFO ] [VeterinarioDaoMemory:39] [Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}]
+[2024-08-08 22:57:09] [ INFO ] [VeterinarioDaoMemory:18] paciente guardado Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:57:09] [ INFO ] [VeterinarioDaoMemory:32] Veterinario encontrado Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:57:45] [ INFO ] [VeterinarioDaoMemory:18] paciente guardado Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
+[2024-08-08 22:57:45] [ INFO ] [VeterinarioDaoMemory:18] paciente guardado Veterinario{id=2, NUMERO_LICENCIA='12341', NOMBRE='Lionel', APELLIDO='Lopes', ESPECIALIDAD='Gatos'}
+[2024-08-08 22:57:45] [ INFO ] [VeterinarioDaoMemory:32] Veterinario encontrado Veterinario{id=1, NUMERO_LICENCIA='123', NOMBRE='Juan', APELLIDO='Lopes', ESPECIALIDAD='Perro'}
